@@ -33,7 +33,7 @@ class App extends Component {
           </div>
 
           <div className='card'>
-            <img src='9.jpeg' alt='' />
+            <img src='4.jpeg' alt='' />
             <label>Project Four</label>
           </div>
 
