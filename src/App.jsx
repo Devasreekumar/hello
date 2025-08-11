@@ -18,22 +18,22 @@ class App extends Component {
         <section>
           {/* Each card displays an image and a label/title below it */}
           <div className='card'>
-            <img src='/1.jpeg' alt='' />
+            <img src='1.jpeg' alt='' />
             <label>Project One</label>
           </div>
 
           <div className='card'>
-            <img src='/2.jpeg' alt='' />
+            <img src='2.jpeg' alt='' />
             <label>Project Two</label>
           </div>
 
           <div className='card'>
-            <img src='/3.jpeg' alt='' />
+            <img src='3.jpeg' alt='' />
             <label>Project Three</label>
           </div>
 
           <div className='card'>
-            <img src='/9.jpeg' alt='' />
+            <img src='9.jpeg' alt='' />
             <label>Project Four</label>
           </div>
 
@@ -43,7 +43,7 @@ class App extends Component {
           </div>
 
           <div className='card'>
-            <img src='/6.jpeg' alt='' />
+            <img src='6.jpeg' alt='' />
             <label>Project Six</label>
           </div>
         </section>
